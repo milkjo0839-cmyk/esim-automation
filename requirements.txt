@@ -1,0 +1,6 @@
+selenium==4.15.0
+flask==2.3.3
+flask-socketio==5.3.4
+gunicorn==21.2.0
+eventlet==0.33.3
+webdriver-manager==4.0.1
